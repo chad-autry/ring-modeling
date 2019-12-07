@@ -20,7 +20,7 @@ These are the steps I took when 3D modeling some Celtic knotwork wedding rings f
     3. Slect --> Shrink 30px
     4. Select --> Grow 30 px
     5. Select --> Invert
-    6. Delete
+    6. Delete selection
     7. Export As PNM image (RAW)
-4. potrace -b svg -C #A9A9A9 <pnm image name>
+4. Use potrace from the command line: potrace -b svg -C #A9A9A9 \<pnm image name\>
 5. Import the processed SVG into FreeCAD
