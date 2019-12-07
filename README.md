@@ -29,5 +29,5 @@ These are the steps I took when 3D modeling some Celtic knotwork wedding rings f
     2. Measure --> Measure Linear --> From tip to tip of your artwork
     3. Decide how many milimeters thick your ring should be. A commercial size 5.5 measured 2.16 and a size 8.5 measured 2.3)
     4. Figure out the outer circumference of your ring in mm 2pi*(chart radius + ringThickness) = outerCircumference
-    4. 
-        1. 
+    5. We now have the ratio of FreeCAD units to mm, and should know how much to extrude each layer (I do 2 layers for knotwork, overlapping the middle third)
+    6. Extrude the layer
