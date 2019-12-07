@@ -27,3 +27,7 @@ These are the steps I took when 3D modeling some Celtic knotwork wedding rings f
 5. Import the processed SVG into FreeCAD
     1. Open the Part Workbench
     2. Measure --> Measure Linear --> From tip to tip of your artwork
+    3. Decide how many milimeters thick your ring should be. A commercial size 5.5 measured 2.16 and a size 8.5 measured 2.3)
+    4. Figure out the outer circumference of your ring in mm 2pi*(chart radius + ringThickness) = outerCircumference
+    4. 
+        1. 
